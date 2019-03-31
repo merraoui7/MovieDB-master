@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:paddingBottom="8.0dip" android:layout_width="75.0dip" android:layout_height="75.0dip" android:src="@drawable/ic_no_wifi" />
+    <TextView android:textSize="21.0sp" android:textStyle="bold" android:textColor="@android:color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="No Internet Connection" android:fontFamily="sans-serif-light" />
+    <TextView android:textSize="20.0dip" android:textColor="@color/colorAccent" android:id="@+id/tryagainbtn" android:background="@drawable/btn_bg_stroker" android:paddingLeft="20.0dip" android:paddingTop="5.0dip" android:paddingRight="20.0dip" android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:text="Try Again" />
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <color name="colorAccent">#ffe8b708</color> 
+  <color name="colorPrimary">#ff121212</color> 
+  <color name="colorPrimaryDark">#ff161616</color> 
+  <color name="firstbg">#ff383838</color> 
+  <color name="secbg">#ff1e1e1e</color> 
+  <color name="spots_dialog_color">@android:color/holo_blue_dark</color> 
+</resources>
